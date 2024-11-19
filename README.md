@@ -2,10 +2,10 @@
 <a id="readme-top"></a>
 
 <!-- ABOUT THE PROJECT -->
-## About The Project
+## SIMPLE-TEXT-STATS
 
 simple-text-stats is a lightweight and straightforward utility script designed to generate summary statistics for any given text, such as word count and character count.
-Built purely for fun, it has no lofty ambitions—just a simple tool.
+Built purely for fun and recreation, it has no ambitions—just a simple tool.
 
 ### Built With
 
