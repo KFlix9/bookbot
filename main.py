@@ -14,11 +14,14 @@ def main():
     book_path = "books/frankenstein.txt"
     with open(book_path) as f:
         file_contents = f.read()
-    print(file_contents)
-    print(get_word_count(file_contents))
-    some_dict = get_character_count(file_contents)
-    print(get_character_count(file_contents))
 
+    print(f"### Begin of the book report on {book_path} ###\n")
+    print(f"{get_word_count(file_contents)} words found in the document\n")
+    character_count = get_character_count(file_contents)
+    for key in character_count.keys():
+        if key.isalpha():
+            print(f"the '{key}' was found {character_count[key]} times")
+    print(f"\n### End of the book report on {book_path} ###")
 
 if __name__ == "__main__":
     main()
