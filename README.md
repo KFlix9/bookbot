@@ -23,13 +23,14 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `github_username`, `repo_name`, `twitter_handle`, `linkedin_username`, `email_client`, `email`, `project_title`, `project_description`
+text-stats is a lightweight and straightforward utility script designed to generate summary statistics for any given text, such as word count and character count.
+Built purely for fun, it has no lofty ambitions—just a simple tool.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ### Built With
 
-* [python][www.python.org]
+* [python](www.python.org)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -41,7 +42,8 @@ To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
 
-* python3 
+* python3
+
   ```sh
   # using homebrew
   brew install python3
@@ -61,7 +63,6 @@ To get a local copy up and running follow these simple example steps.
    ```
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 
 <!-- ROADMAP -->
 ## Roadmap
