@@ -3,7 +3,7 @@
 
 <!-- TABLE OF CONTENTS -->
 <details>
-  <summary>Text Stats simple</summary>
+  <summary>TOC</summary>
   <ol>
     <li>
       <a href="#about-the-project">About The Project</a>
@@ -23,7 +23,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-text-stats is a lightweight and straightforward utility script designed to generate summary statistics for any given text, such as word count and character count.
+simple-text-stats is a lightweight and straightforward utility script designed to generate summary statistics for any given text, such as word count and character count.
 Built purely for fun, it has no lofty ambitions—just a simple tool.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
