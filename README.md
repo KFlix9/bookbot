@@ -26,11 +26,9 @@
 simple-text-stats is a lightweight and straightforward utility script designed to generate summary statistics for any given text, such as word count and character count.
 Built purely for fun, it has no lofty ambitions—just a simple tool.
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 ### Built With
 
-* [python](www.python.org)
+* Python
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -73,6 +71,6 @@ To get a local copy up and running follow these simple example steps.
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
 
-* [bootdev](www.boot.dev)
+* [bootdev](https://www.boot.dev)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
